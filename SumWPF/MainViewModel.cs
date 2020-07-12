@@ -19,6 +19,7 @@ namespace SumWPF
         private void ButtonActionOne(object obj)
         {
             Console.WriteLine("please");
+            Console.Write("leee");
             int i = 1;
         }
     }
