@@ -20,6 +20,7 @@ namespace SumWPF
         {
             Console.WriteLine("please");
             Console.Write("leee");
+            Console.Write("Tri");
             int i = 1;
         }
     }
